@@ -20,6 +20,6 @@ for Openframeworks & C++ using ofxCv.
 ### Next Plan
 - Realtime VideoFile POC
 - Realtime WebCam POC
-
+- Sobel edge based Hough Transform.
 
 
