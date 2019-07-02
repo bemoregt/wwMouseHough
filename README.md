@@ -3,7 +3,7 @@ HoughLines Transform with Parameter selection using MouseMove.
 for Openframeworks & C++ using ofxCv.
 
 
-![POC example]( https://github.com/bemoregt/ofxPhaseOnlyCorrelation/blob/master/result.png "POC")
+![POC example]( https://github.com/bemoregt/ofxMouseHough/blob/master/ScrShot%207.png "POC")
 
 ### How To
 - Move your mouse horizontally to change Hough Threshold. 
