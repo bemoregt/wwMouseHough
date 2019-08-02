@@ -1,4 +1,4 @@
-# ofxMouseHough
+# wwMouseHough
 HoughLines Transform with Parameter selection using MouseMove.
 for Openframeworks & C++ using ofxCv.
 
